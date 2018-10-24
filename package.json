@@ -1,0 +1,47 @@
+{
+  "name": "higher-order-components",
+  "version": "0.1.1",
+  "private": true,
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-scripts": "2.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "description": "A collection of Higher Order Components (such as DataComponent\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dthe DataComponent HOC to create any type of data component) to reuse while developing other projects.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StaceyWhitmore/higher-order-components.git"
+  },
+  "keywords": [
+    "react",
+    "HOC",
+    "higher",
+    "order",
+    "component",
+    "data"
+  ],
+  "author": "Stacey Whitmore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StaceyWhitmore/higher-order-components/issues"
+  },
+  "homepage": "https://github.com/StaceyWhitmore/higher-order-components#readme"
+}
