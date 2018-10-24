@@ -1,17 +1,11 @@
 import React from 'react'
 import {render} from 'react-dom'
 
-//for use with <DataComponent/>
-import RandomMeUsers from './data-component/random-me-users/RandomMeUsers'
-//import CountryDropDown from './country-drop-down/CountryDropDown'
-   /*
-   render(
-     <CountryDropDown selected="United States" />,
-     document.getElementById('root')
-   )
-   */
+//import App from './data-component/App'
+import App from './expandable/App'
+
 
    render(
-     <RandomMeUsers />,
+     <App />,
      document.getElementById('root')
    )
