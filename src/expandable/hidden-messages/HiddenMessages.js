@@ -1,8 +1,5 @@
 import React, {Component} from 'react'
 import HiddenMessage from './HiddenMessage'
-//import HiddenMessage from './mouse-over-version/HiddenMessage'
-//import HiddenMessage from './WithNo_will-receive-props-version/HiddenMessage'
-
 
 class HiddenMessages extends Component {
 constructor(props) {
@@ -26,7 +23,6 @@ return(
                     hide={(i!==showing)}>
                     {message}
       </HiddenMessage>
-
     )}
   </div>
     )
